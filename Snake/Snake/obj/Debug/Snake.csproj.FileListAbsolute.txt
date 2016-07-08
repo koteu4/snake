@@ -1,0 +1,6 @@
+D:\documents\ShitCode\Snake\Snake\bin\Debug\Snake.exe.config
+D:\documents\ShitCode\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\documents\ShitCode\Snake\Snake\bin\Debug\Snake.exe
+D:\documents\ShitCode\Snake\Snake\bin\Debug\Snake.pdb
+D:\documents\ShitCode\Snake\Snake\obj\Debug\Snake.exe
+D:\documents\ShitCode\Snake\Snake\obj\Debug\Snake.pdb
